@@ -69,5 +69,12 @@ Ami ebben megakadályoz pillanatnyilag: Értsd meg. Láss rá.
 
 [Önellátás](./health_and_ecology/self_sufficiency.md)
 
+
 ## Szórakozás
-[Zene](./entertainment/music/music.md)
+[Zene](./entertainment/music/music.md)  
+[Irodalom](./entertainment/literature/literature.md)
+
+
+## Szakmai segédletek
+[Programozás alapismeretek](./cheat_sheets/basic_programming_knowledge.md)
+
