@@ -1,5 +1,9 @@
 # Levegő Tudásközösség
 
+[Levego Tudaskozosseg](https://github.com/KaracsonPeter/LevegoTudaskozosseg) 
+© 2026 by [Peter Zsolt Karácson](https://github.com/KaracsonPeter) is licensed under 
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 A Levegő Tudásközösség egy ismerethalmaz és dokumentáció, mely a fenntartható fejlődés ideája köré épülő általános 
 gyakorlat-orientált tudást, folyamatos bővítéssel összegzi.
 
