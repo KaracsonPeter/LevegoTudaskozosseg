@@ -17,3 +17,5 @@
 [EU Banned Ingredients: Annex II List (2026)](https://globalcosmeticregs.com/guides/eu/banned-ingredients-eu)
 > _More than 1,700 ingredients are banned in EU cosmetics._
 
+---
+# [🔙 _Vissza_](../../need_satisfier_escalation/need_satisfier_escalation.md)

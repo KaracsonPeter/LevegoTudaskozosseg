@@ -11,3 +11,6 @@
 Ha új műfajokat fedeznél fel és eleged van az algoritmusok átkából:  
 https://everynoise.com/  
 ([Kigyűjtöttem a listáik URL-jeit](./every_noise_spoty_urls.txt), Az oldalon vannak Spoty lejátszási listára mutató linkek is.)
+
+---
+# [🔙 _Vissza_](../../README.md)

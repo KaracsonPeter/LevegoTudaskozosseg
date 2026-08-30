@@ -11,3 +11,6 @@ míg a 7 óra körüli, jó minőségű és rendszeres alvás mutatja a legalacs
 - [Relationship of Sleep Duration With All‐Cause Mortality and Cardiovascular Events: A Systematic Review and Dose‐Response Meta‐Analysis of Prospective Cohort Studies (2017)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5634263/)
 - [Sleep duration and health outcomes: an umbrella review (2022)](https://pubmed.ncbi.nlm.nih.gov/34435311/)
 - [Sleep Duration/Quality With Health Outcomes: An Umbrella Review of Meta-Analyses of Prospective Studies (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8811149/)
+
+---
+# [🔙 _Vissza_](../../need_satisfier_escalation/need_satisfier_escalation.md)

@@ -234,3 +234,6 @@ Vevői igények, határidő, security, budget, emberi erőforrás, számítási 
 # 3. Nyelvek
 
 ## 3.1. Python
+
+---
+# [🔙 _Vissza_](../README.md)

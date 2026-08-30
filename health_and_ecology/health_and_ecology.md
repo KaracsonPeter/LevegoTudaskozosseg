@@ -62,7 +62,7 @@ A modern mezőgazdaság véges erőforrásokra, emiatt is törékeny ellátási 
 Ez, későbbiekben jobban kifejtésre kerül.
 - Véges erőforrások pazarlása, mely nem róható fel a modern mezőgazdaságnak, de részt vesz benne és gazdasági kockázat gyanánt említésre méltónak találom: 
 Gondoljunk bele, milyen pazarlás, hogy az évmilliók alatt keletkezett fosszilis forrásokat, néhány száz év alatt eltüzeljük autókban, a ma már 400 lóerő körüli motorteljesítményű traktorokban, erőművekben, hajókban stb. Miért pazarlás ez? Mert a kőolajban olyan szénhidrogének találhatók, melyek rendkívül megkönnyítik például steril orvosi eszközök gyártását. Csak, hogy néhányat említsek, melyek többségére sajnos mindanyiunknak többször szüksége van élete során: dialízis szűrök, vér és infulziós tasakok, fecskendők, kanülök, felszívódó varratok, gumikesztyűk, stb. Más kérdés, hogy más tartós szerkezeti és tárolóelemek is gyárthatók kőolajból.  
-[🛢🛢🛢 Még részletesebben](./mineral_oil.md)
+[🛢 Még részletesebben](./mineral_oil.md)
 
 
 Egyedül a téren érdemes tehát részletesebben megvizsgálni, mely gazdálkodási formára kéne összpontosítani erőforrásainkat, hogy 
@@ -104,3 +104,6 @@ A legnagyobb buktató talán, hogyha az egyének nem hajlandók elfogadni, hogy 
 
 1. **Mert a globális társadalmi és klíma-folyamatok nem hagynak más választást**
 2. **Mert a hagyományos mezőgazdálkodás termelékenysége és más előnyei az ökológiai gazdálkodás még messze nem tökéletesített verzióival szemben megkérdőjelezendők**
+
+---
+# [🔙 _Vissza_](../README.md)

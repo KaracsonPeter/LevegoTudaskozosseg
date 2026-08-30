@@ -26,7 +26,5 @@ Mit nem adtál föl az énségedből, ami meggátol abban, hogy neked működjö
 > _Kitágul energiája a térbe és betölti a végtelent_  
 > _Mást nem kell tudnunk_
 
-
-
-
-
+---
+# [🔙 _Vissza_](../../need_satisfier_escalation/need_satisfier_escalation.md)

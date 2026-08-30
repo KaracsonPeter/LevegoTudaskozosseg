@@ -1,4 +1,4 @@
-# Levegő Tudásközösség
+# 💭 Levegő Tudásközösség
 
 [Levego Tudaskozosseg](https://github.com/KaracsonPeter/LevegoTudaskozosseg) 
 © 2026 by [Peter Zsolt Karácson](https://github.com/KaracsonPeter) is licensed under 
@@ -7,7 +7,7 @@
 A Levegő Tudásközösség egy ismerethalmaz és dokumentáció, mely a fenntartható fejlődés ideája köré épülő általános 
 gyakorlat-orientált tudást, folyamatos bővítéssel összegzi.
 
-# Alapvető szükségletek
+# 🍓 Alapvető szükségletek
 
 A fenntarthatóság központi kérdése, hogy helyesen ismerjük föl: Valójában mire van szükségem? 
 E kérdés helytelen megválaszolásából erednek a modern kor problémái. 
@@ -49,7 +49,7 @@ Ez kívül esik a “normális világ” értelmezési tartományán és olykor 
 
 Ezen állítások alátámasztására egy barátom javaslatára egy nagyon elkapkodott, azonban cikkekre alapuló kutatásba kezdtem:
 
-[Need satisfier escalation](./need_satisfier_escalation/need_satisfier_escalation.md)
+[💸 Need satisfier escalation](./need_satisfier_escalation/need_satisfier_escalation.md)
 
 Jelenleg számomra a fenntarthatóság a környezetünk felelős formálása, az erőforrások szükségletek és nem vágyak szerint történő felhasználása. 
 Ezen életben próbál segítséget nyújtani a tudásbázis az érdeklődők számára.
@@ -59,8 +59,8 @@ Ez iránymutatást adhatna a polgárok számára és az esetlegesen a nemzetbizt
 mivolta miatt könnyedén terjeszthetővé válna akár papír alapon is.
 
 # Segédletek
-[Egészség & ökológia](./health_and_ecology/health_and_ecology.md)  
-[Receptek](./recipes/recipes.md)  
+[🍎 Egészség & ökológia](./health_and_ecology/health_and_ecology.md)  
+[🍜 Receptek](./recipes/recipes.md)  
 
 
 ## Kiegyensúlyozott élet, elvek
@@ -71,14 +71,14 @@ Mikor csinálsz valamit, csak az adott tevékenységet végezd.
 
 Ami ebben megakadályoz pillanatnyilag: Értsd meg. Láss rá.  
 
-[Önellátás](./health_and_ecology/self_sufficiency.md)
+[🍯 Önellátás](./health_and_ecology/self_sufficiency.md)
 
 
 ## Szórakozás
-[Zene](./entertainment/music/music.md)  
-[Irodalom](./entertainment/literature/literature.md)
+[🎻 Zene](./entertainment/music/music.md)  
+[📖 Irodalom](./entertainment/literature/literature.md)
 
 
 ## Szakmai segédletek
-[Programozás alapismeretek](./cheat_sheets/basic_programming_knowledge.md)
+[💻 Programozás alapismeretek](./cheat_sheets/basic_programming_knowledge.md)
 

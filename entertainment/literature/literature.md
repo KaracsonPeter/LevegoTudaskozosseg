@@ -11,3 +11,6 @@ Csekély irodalmi ismereteim mentén, a számomra legkedvesebb alkotások:
 - [Arany János - Családi kör](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/arany-janos-B084/1847-1852-B089/csaladi-kor-B41B/)
 - Irodalmi összegzés Móra Ferenc életéről: [Anzix a búzamezőkről – 2005](https://www.youtube.com/watch?v=nkYWpWhuNd4&t)
 - Amennyit képes voltam megemészteni, az kedves számomra: [Hamvas Béla - Scientia sacra 1. rész](https://nemzetiegyseg.com/Tortenelmi_alkotmanyossag/Hagyatek/HB_Scientiasacra.pdf)
+
+---
+# [🔙 _Vissza_](../../README.md)
