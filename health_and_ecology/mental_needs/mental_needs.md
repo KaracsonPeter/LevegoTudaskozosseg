@@ -26,5 +26,8 @@ Mit nem adtál föl az énségedből, ami meggátol abban, hogy neked működjö
 > _Kitágul energiája a térbe és betölti a végtelent_  
 > _Mást nem kell tudnunk_
 
+...  
+[Ha csak egy Dharma beszédet ajánlhatnék](https://www.youtube.com/watch?v=KS_2zPFM7_Y)
+
 ---
 # [🔙 _Vissza_](../../need_satisfier_escalation/need_satisfier_escalation.md)

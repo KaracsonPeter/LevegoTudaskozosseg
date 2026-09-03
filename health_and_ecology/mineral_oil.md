@@ -1,5 +1,10 @@
 # Egy kis őrület...
 
+| Szerkesztő | Karácson Péter |
+|------------|----------------|
+| Lektor     | -              |
+| Állapot    | v1.0           |
+
 Vannak, akik szerint kolonizálni lehetne más bolygókat, hogy elkerüljük a felelőtlen bolygóhasználat következményeit. 
 
 Nézzük meg csak ezt az egy aprócska bökkenőt: 

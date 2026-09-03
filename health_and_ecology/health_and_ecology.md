@@ -1,5 +1,10 @@
 # 🍎 Egészség és ökológia
 
+| Szerkesztő | Karácson Péter |
+|------------|----------------|
+| Lektor     | -              |
+| Állapot    | v1.0           |
+
 Szeretném kutatásokkal alátámasztani, miért az az egészséges, ha a természet egészéhez tartozunk.
 
 ## Az oldal legfontosabb állításai:

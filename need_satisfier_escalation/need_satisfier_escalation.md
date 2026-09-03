@@ -1,5 +1,10 @@
 # Need satisfier escalation
 
+| Szerkesztő | Karácson Péter |
+|------------|----------------|
+| Lektor     | Szalma Nándor  |
+| Állapot    | v1.0           |
+
 Az alábbiak egyetlen nagy érvet képviselnek, mely a változás melletti elköteleződést szorgalmazza. 
 Ne tessék rácsimpaszkodni egyetlen kutatás eredményére és azt mondani, helytelen az egész érvrendszer, mondván "megvan a rés a pajzson". 
 Az egyén, ugyanis hajlamos a következőre: 

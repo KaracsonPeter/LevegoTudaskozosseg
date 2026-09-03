@@ -1,4 +1,11 @@
 # 👩‍🌾 Szántás vs. Öko
+
+| Szerkesztő | Karácson Péter |
+|------------|----------------|
+| Lektor     | -              |
+| Állapot    | v1.0           |
+
+## 1. Az "Ökológiai" VS. "Business as usual" életvitelek rendszerelemeinek összehasonlítása  
 [Redefining agricultural yields: from tonnes to people nourished per hectare (2013)](https://iopscience.iop.org/article/10.1088/1748-9326/8/3/034015)
 > *“Currently, 36% of the calories produced by the world’s crops are being used for animal feed, and only 12% of those feed calories ultimately contribute to the human diet (as meat and other animal products).” … In this study, we re-examine agricultural productivity, going from using the standard definition of yield (in tonnes per hectare, or similar units) to using the number of people actually fed per hectare of cropland. We find that, given the current mix of crop uses, growing food exclusively for direct human consumption could, in principle, increase available food calories by as much as 70%, which could feed an additional 4 billion people (more than the projected 2–3 billion people arriving through population growth). …*  
 > *Recent studies find that global crop demands will likely increase by 60–120% by the year 2050 (from baseline year 2005) [1, 2], depending on assumptions of population growth, income growth and dietary changes. This projected increase of global crop demand is partly due to a growing global population, but a larger driver is increasing global affluence and associated changes in diet [2].*  
@@ -39,6 +46,7 @@ Abba, hogy életviteltől függően hogyan térnek el a fenti táblázatban szer
 Mellesleg az ökológiai gazdálkodás nem azt jelenti, hogy nincs hús. Ebben a vonatkozásban azt jelenti, hogy az állat is a 
 természet része mondjuk egy legeltetéses állattartás keretein belül. A példa arra vonatkozott, hogy **tény, hogy jóval több 
 húst eszünk, mint amennyi egészséges lenne.**
+
 ---
 
 [Comparing the yields of organic and conventional agriculture (2012)](https://www.nature.com/articles/nature11069)  
@@ -119,11 +127,12 @@ Képes az ökológiai rendszer fogadni a műtrágyákat? Ha igen, milyen hatéko
 Az ökológiai rendszerek nagyobb eséllyel élik túl ezeket, mint a monokultúrák?
 
 ### 2.1. Összegzés
-- **Számottevő mennyiség nem pótolható egy ökológiai rendszerbe kizárólag mesterségesen (műtrágyák), mert az fölborítja a növény és gyökérzónája mikrobiális egyensúját, amely közvetve mindennemű diverzitás visszaeséséhez és így az ökológia megszűnéséhez vezet.**
-- **Éppen ezért pillangósokkal, illetve mulcs segítségével szoktak plusz nitrogént vinni a rendszerbe.**
+- **Számottevő mennyiség nem pótolható egy ökológiai rendszerbe kizárólag mesterségesen (műtrágyákkal), mert az fölborítja a növény és gyökérzónája mikrobiális egyensúját, amely közvetve mindennemű diverzitás visszaeséséhez és így az ökológia megszűnéséhez vezet.**
+- **Éppen ezért pillangósokkal, illetve mulcs segítségével szoktak plusz nitrogént juttatni a rendszerbe.**
 
 ### 2.2. Tápanyag-pótlás & -feldolgozás
 #### 2.2.1. Mesterséges Tápanyagpótlás
+##### 2.2.1.1. Mesterséges nitrát alapú műtrágyahasználat kontextusba helyezése 
 Először is: a dinitrogén-oxid (N2O) egy elképesztően veszélyes üvegházhatású gáz. A legfrissebb éghajlatkutatási adatok szerint 
 a dinitrogén-oxid globális felmelegedési potenciálja közel 300-szor erősebb, mint a szén-dioxidé, és a légkörben csaknem 100 évig 
 képes megmaradni. Európában és globálisan a teljes N2O-kibocsátás mintegy háromnegyedéért közvetlenül a mezőgazdasági 
@@ -141,11 +150,20 @@ kontinentális lemezpatkákon. NO3- → algavirágzás → oxigénhiány (hypoxi
 > Moreover, massive amounts of synthetic agro inputs to fertilize crops used by farmers harm environmental health [5,6].  
 > In this sense, applying nitrogen (N) fertilizers has increased sharply by 7.4 times compared with crop productivity, which 
 > has only increased by 2.4 times, indicating that crops have been reduced in their ability to use N efficiently [7], 
-> increasing food insecurity [8,9]._  
+> increasing food insecurity [8,9]._
+
+Továbbá, tegyük hozzá, hogy amennyiben extrapoláljuk a földgáz fogyasztásunk görbéjét, úgy becslések szerint [51 évre](https://www.worldometers.info/gas/) 
+elegendő tartalék maradt a Földön. Ebből a fólián át a szürkehidrogénen keresztül sokmindent gazdaságos előállítani.
+Többekközött műtrágyát is ebből gyártunk. A [Hektár](https://www.youtube.com/@hektarpodcast) nevű YouTube csatornán számos 
+gazda arról számol be, hogy ilyen műtrágyaárak mellett már most is a másodnővényes pillangós vetést alkalmazza a rendszeréből 
+kieső nitrogén pótlása érdekében, mivel gazdaságosabb. Mások, akik megtehetik, állati eredetű tápanyagpótlást eszközölnek 
+mondjuk hígtrágya kijuttatásával. A változás elkezdődött.
+
+---
 
 [Nitrogen Journey in Plants: From Uptake to Metabolism, Stress Response, and Microbe Interaction (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10605003/)  
 
-Summary of the review article above:  
+Summary of the review study article above:  
 Nitrogen uptake efficiency (NUE) is a fine-tuned balancing act. If the soil structure is compact (inhibiting root architecture) or 
 if the biological microbiome is dead, the genetic transport systems (HATS/LATS) cannot function properly—leading directly to 
 the massive chemical waste and environmental leaching we discussed earlier. The future of crop productivity is likely to 
@@ -188,17 +206,39 @@ mennyiséget úgy tűnik, hogy az ökológiai rendszer károsítása nélkül ne
 
 Tehát, ökológiai gazdálkodásnál (meglepő módon) az ökológiára kell hagyadkozni. (Legalábbis tápanyagpótlás tekintetében.)  
 Ennyit a mesterséges tápanyagpótlás témaköréről.
+
 ---
 #### 2.2.2. Természetes Tápanyagpótlás
 ##### 2.2.2.1. Hüvelyesek
 A fő kérdés itt az, hogy ez a tápanyagpótlási forma elegendő-e ahhoz, hogy a nitrogén mérleg pozitív maradjon, azaz, hogy több nitrogén érkezzen a területre, mint amennyit elszökik.
 
-Nagyvonalakban a hüvelyesek nitrogénkötéséről: [Plant-Rhizobia Relationship (2024)](https://www.cropscience.bayer.us/articles/bayer/plant-rhizobia-relationship)
+Nagyvonalakban a hüvelyesek nitrogénkötéséről: [Plant-Rhizobia Relationship (2024)](https://www.cropscience.bayer.us/articles/bayer/plant-rhizobia-relationship)  
+
+Ökológiai kertek gondosságát megközelítő gazdálkodási formákat szeretnék összehasonlítani a CF-al, de mivel ilyen félig 
+automatizált gazdaságok még nem igazán léteznek, be kell érnem pillangósok köztes vetésének vagy a váltott vetésben 
+pillangosokkal támogatott főnövény-monokultúrák elemzéseivel.
+
+A következő tanulmány azt találta, hogy a pillangósok nitrogénkötési képessége akkor volt legnagyobb, mikor a szántó az év 
+felében pillangósokkal volt tele:  
+[A Comparative Nitrogen Balance and Productivity Analysis of Legume and Non-legume Supported Cropping Systems: The Potential Role of Biological Nitrogen Fixation (2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5116563/)
+
+Sorközi termesztésre példa:
+Évről évre növő cirok hozam, évről évre növekvő talaj nitrogéntartalom mellett, különböző hüvelyesek sorközi termelésének hatására:
+[Legume Effect for Enhancing Productivity and Nutrient Use-Efficiency in Major Cropping Systems–An Indian Perspective: A Review (2014)](https://sci-hub.box/10.1300/J064v30n01_07)
+[(Eredeti, fizetős cikk)](https://www.tandfonline.com/doi/abs/10.1300/J064v30n01_07)  
+![sorghum_intercropped_with_legumes.png](sorghum_intercropped_with_legumes.png)
+
+Igazából nem is az a kérdés, hogy lehetséges-e csak hüvelyesekkel pótolni a talajból kivett nitrogént, hanem, hogy mennyi 
+hüvelyes kell ehhez arányaiban a főnövényhez, hogy még éppen stagnáljon vagy picit növekedjen a nitrogén a talajban.
+
+Belebotlottam egy könyvbe ha valakit érdekel: [Managing cover crops profitably](https://www.sare.org/wp-content/uploads/Managing-Cover-Crops-Profitably.pdf)
 
 ##### 2.2.2.2. Tápanyagpótlás Mulcsolással
-Ennek mindig az a legnagyobb kritikája, hogy külső inputból származik a mulcs, mert honnan szerezz annyi mulcsot.
-Kérdés, hogy hogyan működik a mulcsal történő tápanyagpotlás mikrobiális szinten. A mulcshoz már lehet adni mesterségesen is tápanyagokat?
-Vagy itt is csak természetesen például vizelettel?
+Ennek általában az a legnagyobb kritikája, hogy külső inputból származik a mulcs, honnan szerezz annyi mulcsot.  
+Ökológiai oldalról az is kérdés, hogyan működik a mulcsal történő tápanyagpótlás mikrobiális szinten, mert ez meghatározza, 
+mely fajta mulcsolás hogyan működik majd. A mulcshoz már lehet adni mesterségesen is tápanyagokat? 
+Vagy itt is csak természetesen például vizelettel?  
+A fenti kritikát megfogalmazóknak hasonló jellegű kritikát tudok megfogalmazni: A földgáz mi, ha nem külső input?
 
 
 ---
