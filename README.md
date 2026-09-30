@@ -80,5 +80,6 @@ Ami ebben megakadályoz pillanatnyilag: Értsd meg. Láss rá.
 
 
 ## Szakmai segédletek
-[💻 Programozás alapismeretek](./cheat_sheets/basic_programming_knowledge.md)
+[💻 Programozás alapismeretek](./cheat_sheets/basic_programming_knowledge.md)  
+[🌶️ Kertészkedés](./documented_experiments/documented_experiments.md)
 
