@@ -4,6 +4,7 @@
 |------------|----------------|
 | Lektor     | -              |
 | Állapot    | v1.0           |
+
 (A dokumentum képei 1000 pixel szélesek és 750 pixel magasak. 
 Eredeti és további képekért vedd fel a kapcsolatot a szerkesztővel a karacsonpeterzsolt@gmail.com e-mail címen.)
 
