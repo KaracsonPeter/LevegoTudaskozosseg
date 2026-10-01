@@ -5,6 +5,10 @@
 | Lektor     | -              |
 | Állapot    | v1.0           |
 
+---
+# [🔙 _Vissza_](../documented_experiments.md)
+---
+
 (A dokumentum képei 1000 pixel szélesek és 750 pixel magasak. 
 Eredeti és további képekért vedd fel a kapcsolatot a szerkesztővel a karacsonpeterzsolt@gmail.com e-mail címen.)
 
@@ -135,8 +139,40 @@ Mindenre szakosodott valaki, mindenkinek meg van a helye. **A bőség, a biztons
    3.4. Próbálj terméket készíteni abból, amit az a rendszer ad neked, amiért felelős vagy.
 
 
-## 4. TODO: Az élővilág jelei, jelentése a rendszer jelen állapotára nézve
+## 4. Az élet első jelei
+Számomra azért is meglepő ez a történet, mert gondoljunk csak vissza a talaj állapotával foglalkozó fejezetre. Laikusként aligha gondoltam volna, hogy ott bármi élet lakozik. Sokkal inkább egy kedvesebb pokolhoz hasonlítottam volna. Ennek ellenére egyetlen év leforgása alatt számtalan esemény bekövetkezett a természet jóvoltából, melyből mindössze néhányat tudtam megfigyelni és dokumentálni:
 
+### 4.1. Véresen komoly tücsökbunyó
+Nyár elején rendkívül sok tücsköm lett feltehetően az oda hordott elhalt biomassza végett. (Ténylegesen bunyóztak a tücskök, territoriálisak egyébként.)  
+![](tucsokbunyo.png)
+
+### 4.2. Gömbászka megy haza reggel 6 előtt az éjszakai műszakból
+A [gömbászkák](https://hu.wikipedia.org/wiki/K%C3%B6z%C3%B6ns%C3%A9ges_g%C3%B6mb%C3%A1szka) egyébként kiemelkedő szerepet vállalnak a talajjavításban. Mikor felemelsz egy követ és szétszaladnak az alatta eddig összebújó gömbászkák, az azért van, mert gömbászkaként a legnagyobb esélyed az elhalálozásra a kiszáradás. Ezért bújnak össze a kövek alatt, hogy lokálisan megemeljék a páratartalmat és így együttesen kevesebbet párologtassanak. Számomra ez a következő miatt volt megdöbbentő: Persze, egy gömbászka élete elhanyagolható egy emberélethez képest. Ugyanakkor szükségünk van például a gömbászkákra is. És valahogy nekem picit kontrasztos volt belegondolni, hogy egy regimentnyi gömbászka kihúzza egy csepp vízen mondjuk napokig, én meg napi pl: 100 liter vizet elhasználok részben angol WC-re. Hol van az a határ, amennyire még feljogosítva érezhetjük magunkat, hogy de mi jobban tudjuk, hogyan kell a vizet fölhasználni, mint a gömbászka ezért többre vagyunk jogosultak?  
+![](gombaszka.png)
+
+### 4.3. Not the pleasant kind of güzüegér nasi
+Feltehetően güzüegerek hordásának eredményeként keletkezett, kifosztott bojtorján szerbtövis magházak.  
+![](pealed.png)
+
+### 4.4. Egy művészien installált bagolyköpet
+![](bagolykopet.png)
+
+### 4.5. Bundás bogár (épp a borsóm helyett) pásztortáska virágot ebédel
+![](bundasbogar.png)
+
+### 4.6. Róka végrehajtó, pocok kilakoltatási helyszíne
+![](roka.png)
+
+### 4.7. Őz agancs
+Egyik bizonyíték (a millionyi kettéharapott növényem mellett), hogy az őzek is hozzám járnak bandázni.  
+![](oz_1.png)
+
+### 4.8. Amikor ráeszméltem az őzek hasznára
+Nem igazán tudom eldönteni, hogy betegre zabálták magukat az őzek és azt hányták ide vagy másképp ürítették, de több ehhez hasonló formációt is találtam a földemen. Idén próbáltam ki milyen ringló lekvárt főzni dűlő út menti fák terméséből. Főztem is 16 litert. Körülményesebb mint egy baracklekvár, de a gépiesítés hiánya miatt. Egyébként elképesztő, hogy kukacot alig találok benne, de a héját leszámítva méz édes a legtöbb és nulla törődést (inkább bolygatást) kapott. Palacsintához, tejberizshez, rizskoch-hoz, zabkásához, stb. kiváló. Még a monília és a szárazság is csak néhánnyal végzett. (Ja igen, öntözni is csak a Jóisten öntözi az elmúl 3 aszájos évben.)  
+![](oz_2.png)
+
+## Összességében
+Átértékeltem a jelenlegi konyhánkat és, hogy mire kellene alapozni egy fenntartható élelmiszeripart.
 
 ---
 # [🔙 _Vissza_](../documented_experiments.md)
