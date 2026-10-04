@@ -8,6 +8,11 @@
 # [🔙 _Vissza_](../README.md)
 ---
 
+**Ha szerkesztő vagy: A dokumentált recepteket a következő szabályok szerint kell struktúrálni:**  
+Csak a receptíró által megvalósított, bevált receptek dokumentálhatóak.  
+Minden recept 4 szekciót tartalmazzon a későbbi parse-olhatóság érdekében: *Cím*, *Eszközök*, *Hozzávalók*, *Elkészítés*. A cím utáni rövid (opcionális) bevezetőt két szekció követ, melyek elemei lista pontokból álló felsorolások. Az utolsó (*Elkészítés*) szekció elemei növekvő számozással ellátott lépéseket reprezentáljanak, ahol a nagyobb számozású lépések a kisebb számozásúakra dependálnak.  
+Példaként bármely más eddig dokumentált recept megtekinthető.
+
 | Recept                                                                     | Diéta                    | Elkészítési idő [óra] | Lokálisan termelhető? |
 | -------------------------------------------------------------------------- | ------------------------ | --------------------- | --------------------- |
 | [Anya gluténmentes túrógombóca](./global/anya_glutenmentes_turogomboca.md) | Glutánmentes, Laktovegán | ?                     | Igen                  |
@@ -31,6 +36,18 @@
 
 
 # Lekvárok
+Néhány tipp:  
+- Ha gyűjtöd a befőttesüvegeket, a saját tetejükkel tárold.
+- Figyelj, hogy a megfelelő tetőt használd az üveghez.
+- Inkább cserélj tetőt, ha gatyának látod. Annyi meló van a lekvárral, ne egy tető árán spórolj.
+- Felhasználás előtt közvetlen alaposan mosd el a tetőt és üveget kívül belül forró vízzel.
+- Csak forrásban levő lekvárt tölts az üvegbe. Nagy szájú tölcsér használata ajánlott. Az üvegben a lekvárt addig töltsd, amíg az az üveg szájától 3-5mm-re nem lesz. A betöltött forró lekvárt amint lehet zárd le a tetővel, majd fordítsd fejjel lefelé. (Ha nem megfelelő tetőt használsz, leköp a forró lekvár.) 
+- Tiszta eszközöket használj, ügyelj a tisztaságra.
+
+| Lekvár                                  | Feldolgozási nehézség |
+| --------------------------------------- | --------------------- |
+| [Ringló (potyóka)](./global/potyoka.md) | A magozás melós       |
+
 
 # Szörpök
 
