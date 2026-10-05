@@ -6,7 +6,7 @@
 | Állapot    | v1.0           |
 
 ---
-# [🔙 _Vissza_](../README.md)
+# [🔙 _Vissza_](../../README.md)
 ---
 
 # Bevezetés
@@ -53,5 +53,5 @@ a csalás és a hazugság, és megjelent a fegyver... Ezt az időt úgy hívják
 Jólét”. [HAMVAS BÉLA - Scientia sacra 1. rész]*
 
 ---
-# [🔙 _Vissza_](../README.md)
+# [🔙 _Vissza_](../../README.md)
 ---

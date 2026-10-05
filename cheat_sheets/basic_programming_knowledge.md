@@ -1,9 +1,13 @@
-# Programozás alapismeretek
-
 | Szerkesztő | Karácson Péter |
 |------------|----------------|
 | Lektor     | Szalma Nándor  |
 | Állapot    | v1.0           |
+
+---
+# [🔙 _Vissza_](../README.md)
+---
+
+# Programozás alapismeretek
 
 ## Bevezető
 
@@ -237,3 +241,4 @@ Vevői igények, határidő, security, budget, emberi erőforrás, számítási 
 
 ---
 # [🔙 _Vissza_](../README.md)
+---

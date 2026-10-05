@@ -21,7 +21,7 @@ Mikor csinálsz valamit, csak az adott tevékenységet végezd.
 Ami ebben megakadályoz pillanatnyilag: Értsd meg. Láss rá.  
 
 Egy felesleges kitérő megelőzése:  
-[🍯 Önellátás](./health_and_ecology/self_sufficiency.md)  
+[🍯 Önellátás](./core_principle/health_and_ecology/self_sufficiency.md)  
 
 ## 🍓 [2.2. Az alapvető szükségletekről általában](./core_principle/needs.md)
 Ez a fejezet szolgál magyarázatul azok számára, akik kíváncsiak, miért ilyen struktúrát kapott a tudásbázis.
