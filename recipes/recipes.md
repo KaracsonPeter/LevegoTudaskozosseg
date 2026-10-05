@@ -10,7 +10,7 @@
 
 **Ha szerkesztő vagy: A dokumentált recepteket a következő szabályok szerint kell struktúrálni:**  
 Csak a receptíró által megvalósított, bevált receptek dokumentálhatóak.  
-Minden recept 4 szekciót tartalmazzon a későbbi parse-olhatóság érdekében: *Cím*, *Eszközök*, *Hozzávalók*, *Elkészítés*. A cím utáni rövid (opcionális) bevezetőt két szekció követ, melyek elemei lista pontokból álló felsorolások. Az utolsó (*Elkészítés*) szekció elemei növekvő számozással ellátott lépéseket reprezentáljanak, ahol a nagyobb számozású lépések a kisebb számozásúakra dependálnak.  
+Minden recept 4 szekciót tartalmazzon a későbbi parse-olhatóság érdekében: *Cím*, *Eszközök*, *Hozzávalók*, *Elkészítés*. A cím utáni rövid (opcionális) bevezetőt két szekció követ, melyek elemei lista pontokból álló felsorolások. Az utolsó (*Elkészítés*) szekció elemei növekvő számozással ellátott lépéseket reprezentáljanak, ahol a nagyobb számozású lépések a folyamatban a kisebb számozású lépésekre dependáljanak.  
 Példaként bármely más eddig dokumentált recept megtekinthető.
 
 | Recept                                                                     | Diéta                    | Elkészítési idő [óra] | Lokálisan termelhető? |

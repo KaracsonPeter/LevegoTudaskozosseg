@@ -5,7 +5,10 @@
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 A Levegő Tudásközösség egy ismerethalmaz és dokumentáció, mely a fenntartható fejlődés ideája köré épülő általános 
-gyakorlat-orientált tudást, folyamatos bővítéssel összegzi.
+gyakorlat-orientált tudást, folyamatos bővítéssel összegzi. 
+
+# [:page_facing_up: Alapelvek](./core_principle/core_principle.md)
+*"Mi itt csak gyakorlunk. Apró fehér kis pontokként fénylünk, járkálunk és bolyongunk. Mikor meghalunk, a pici kis fehér csillag bennünk szupernóvaként felrobban. Kitágul energiája a térbe és betölti a végtelent. Mást nem kell tudnunk."*
 
 # 🍓 Alapvető szükségletek
 
