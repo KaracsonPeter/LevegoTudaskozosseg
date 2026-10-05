@@ -1,9 +1,13 @@
-# 🍎 Egészség és ökológia
-
 | Szerkesztő | Karácson Péter |
 |------------|----------------|
 | Lektor     | -              |
 | Állapot    | v1.0           |
+
+---
+# [🔙 _Vissza_](../needs.md)
+---
+
+# 🍎 Egészség és ökológia
 
 Szeretném kutatásokkal alátámasztani, miért az az egészséges, ha a természet egészéhez tartozunk.
 
@@ -111,4 +115,5 @@ A legnagyobb buktató talán, hogyha az egyének nem hajlandók elfogadni, hogy 
 2. **Mert a hagyományos mezőgazdálkodás termelékenysége és más előnyei az ökológiai gazdálkodás még messze nem tökéletesített verzióival szemben megkérdőjelezendők**
 
 ---
-# [🔙 _Vissza_](../README.md)
+# [🔙 _Vissza_](../needs.md)
+---

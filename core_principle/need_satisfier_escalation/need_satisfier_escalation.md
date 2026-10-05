@@ -5,6 +5,10 @@
 | Lektor     | Szalma Nándor  |
 | Állapot    | v1.0           |
 
+---
+# [🔙 _Vissza_](../needs.md)
+---
+
 Az alábbiak egyetlen nagy érvet képviselnek, mely a változás melletti elköteleződést szorgalmazza. 
 Ne tessék rácsimpaszkodni egyetlen kutatás eredményére és azt mondani, helytelen az egész érvrendszer, mondván "megvan a rés a pajzson". 
 Az egyén, ugyanis hajlamos a következőre: 
@@ -77,4 +81,5 @@ ritkán szorulok arra, hogy ilyen kevés vízzel tusoljak, de tény, hogy e tér
 TODO: Elsődleges erőforrások
 
 ---
-# [🔙 _Vissza_](../README.md)
+# [🔙 _Vissza_](../needs.md)
+---

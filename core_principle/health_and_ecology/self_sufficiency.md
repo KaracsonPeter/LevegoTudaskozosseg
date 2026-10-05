@@ -1,9 +1,13 @@
 # Önellátás
 
 | Szerkesztő | Karácson Péter |
-|------------|----------------|
+| ---------- | -------------- |
 | Lektor     | -              |
-| Állapot    | Kész           |
+| Állapot    | v1.0           |
+
+---
+# [🔙 _Vissza_](../README.md)
+---
 
 # Bevezetés
 
@@ -11,7 +15,7 @@ Nagy rajongója voltam az önellátásnak, mert e fogalmat a nagy társadalmi re
 mely egy téves, dacos megközelítés, egyfajta lázadás a jelen berendezkedésünk ellen. “Basszátok meg, kiléptem, 
 saját rendszert alapítok!” Idő közben rájöttem, hogy nem azzal van problémám, hogy függök egy másik ember munkájától, 
 hanem, hogy az emberek csekély hányada alkot olyat, amire nekem szükségem lenne egy egészséges élethez. 
-Például termelhetnénk zajmentes környezetet. Minden pillanatban. Számomra zaj az a hanghatás, 
+Például termelhetnénk zajmentes környezetet. Minden pillanatban. Számomra zaj az a "hanghatás", 
 amely olyan cselekvés következtében keletkezett, mely az egyén félre nem tett egójának következménye.
 Napjainkban bizsura van kereslet és nem minőségre. Ez egyfajta anyagi zaj. Régen a falu kovácsa kénytelen volt jó minőségű szerszámokat készíteni, 
 mert a megrendelő úgy lehet a szomszédja volt és, ha minőségi problémái lettek volna a szerzámnak, azt számon tudta kérni. 
@@ -28,7 +32,7 @@ például egy madár magvat hozhat a mi területünkre. Ez egy **ökológiai** s
 Tehát, ha a két közösség mégcsak egymásra sem gondolt, akkor is közvetetten segítette egyik a másikat.
 Ha ennek ellenére valamiért mindenképpen arra akarunk törekedni, 
 hogy más embercsoporttól származó lehető legkevesebb segítséggel üzemeljen közösségünk, akkor is számolni kell azzal, 
-hogy egy ember, egy testel és egy tudattal egyszerre igazán csak egyetlen tevékenységet tud végezni.
+hogy egy ember, egy testtel és egy tudattal egyszerre igazán csak egyetlen tevékenységet tud végezni.
 Tehát **a közösség által fenntartani kívánt életszínvonal függvényében különböző létszámú közösségre van szükség. 
 Középkori életszínvonalhoz lehet, hogy elegendő 1000 ember munkája.** 
 
@@ -38,7 +42,7 @@ Számomra ez kiváló és nagyon érdekes kiindulási alap volt a témában, mel
 
 Összességében, az önellátás ideájának hajkurászása helyett, azt mondanám inkább építsünk működő közösségeket 
 és ne aggassunk rá ilyeneket, hogy önellátó vagy önfenntartó vagy pazarló vagy élhetetlen, stb. 
-Szabaduljunk meg véleményeinktől és egyszerűen címkék nélkül olyan közösséget építsünk, ahol képesek vagyunk együttműködni. 
+**Szabaduljunk meg véleményeinktől** és egyszerűen címkék nélkül olyan közösséget építsünk, ahol képesek vagyunk együttműködni. 
 
 > *Midőn a tao a földön volt, a világ mindenkié volt; vezetőnek azt választották, aki arra a
 legalkalmasabb volt; az igazat mondták és az egyetértést ápolták... Hazugságot, csalást
@@ -47,3 +51,7 @@ be. Ez volt a Nagy Közösség ideje. De a tao elrejtőzött, s a világ már ne
 egyéni tulajdon. Falakat és tornyokat építenek, hogy a városokat biztosítsák... Megjelent
 a csalás és a hazugság, és megjelent a fegyver... Ezt az időt úgy hívják, hogy Kicsinyke
 Jólét”. [HAMVAS BÉLA - Scientia sacra 1. rész]*
+
+---
+# [🔙 _Vissza_](../README.md)
+---

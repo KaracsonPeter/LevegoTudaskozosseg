@@ -5,6 +5,10 @@
 | Lektor     | -              |
 | Állapot    | v1.0           |
 
+---
+# [🔙 _Vissza_](../health_and_ecology.md)
+---
+
 ## 1. Az "Ökológiai" VS. "Business as usual" életvitelek rendszerelemeinek összehasonlítása  
 [Redefining agricultural yields: from tonnes to people nourished per hectare (2013)](https://iopscience.iop.org/article/10.1088/1748-9326/8/3/034015)
 > *“Currently, 36% of the calories produced by the world’s crops are being used for animal feed, and only 12% of those feed calories ultimately contribute to the human diet (as meat and other animal products).” … In this study, we re-examine agricultural productivity, going from using the standard definition of yield (in tonnes per hectare, or similar units) to using the number of people actually fed per hectare of cropland. We find that, given the current mix of crop uses, growing food exclusively for direct human consumption could, in principle, increase available food calories by as much as 70%, which could feed an additional 4 billion people (more than the projected 2–3 billion people arriving through population growth). …*  
@@ -243,3 +247,4 @@ A fenti kritikát megfogalmazóknak hasonló jellegű kritikát tudok megfogalma
 
 ---
 # [🔙 _Vissza_](../health_and_ecology.md)
+---

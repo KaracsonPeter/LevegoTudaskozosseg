@@ -1,3 +1,7 @@
+| Szerkesztő | Karácson Péter |
+| ---------- | -------------- |
+| Lektor     | -              |
+| Állapot    | v1.0           |
 
 ---
 # [🔙 _Vissza_](../README.md)
