@@ -34,7 +34,7 @@ Azt enni, ami megadatik, nem egyenlő a nélkülözéssel. Nélkülözés az, am
 Mai világunkban racionális és normális az, amit sokan gondolnak. Ami valóban racionális, sokszor szélsőség kategóriába esik, hisz nem gondolják sokan. Pedig az akaratom beteljesülése, és egy élőközösség által megadatott lehetőségek elfogadása közötti különbség éppen csak a szabadságom.
 
 ## Jegyzetek
-
+[Dr. Gyulai Iván előadásai alapján](./dr_gyulai_ivan/dr_gyulai_ivan.md)
 
 ## Jegyzőkönyvek
 
