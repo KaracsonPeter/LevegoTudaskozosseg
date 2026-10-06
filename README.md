@@ -28,11 +28,33 @@ Ez a fejezet szolgál magyarázatul azok számára, akik kíváncsiak, miért il
 
 # 3. Szükségletek kielégítése
 ## 3.1. Létfenntartás
-### 3.1.1. Táplálkozás
+Prioritás szerinti sorrendben
+### 3.1.1. Ivóvíz, víz a háztartásban
+[Mosás]()  
+[Tisztálkodás]()  
+[Víz tisztítása, ivóvíz]()
+
+### 3.1.2. Táplálkozás
 [🍜 Receptek](./recipes/recipes.md)  
+[Sütés, főzés kellékei]()
+
+### 3.1.3. Öltözködés
+TODO
+
+### 3.1.4. Lakhatás, alvás
+TODO
+
+### 3.1.5. Salakanyag kezelés
+TODO
+
+### 3.1.6. Villamos energia
+TODO
+
+### 3.1.7. Fűtés, melegvíz előállítása
+TODO
 
 
-## 3.2. Szellemi, Szórakozás
+## 3.2. Szellemi szükségletek, Szórakozás
 [🎻 Zene](./entertainment/music/music.md)  
 [📖 Irodalom](./entertainment/literature/literature.md)
 
