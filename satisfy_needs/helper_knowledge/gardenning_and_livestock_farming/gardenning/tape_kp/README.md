@@ -15,6 +15,16 @@ Eredeti és további képekért vedd fel a kapcsolatot a szerkesztővel a karacs
 Ezen jegyzőkönyv nagyjából évente kerül frissítésre, minden ősszel. Azért döntöttem így, mert az Alföldön jelenleg úgy látszik, 
 ősszel számíthatunk ismételten számottevő csapadékra és újabb esélyre, hogy valami más csírázhasson ki öntözés nélkül.
 
+# Konklúzió
+A [korábban ismertetett](../gardenning.md) szemléletek mentén a következő teendőket végeztem az agyonbolygatott szántóm kapcsán:
+
+- Környékről kaszálék gyűjtése (ami az enyészeté lett volna): diverzitás növelése a kaszálék magjaival
+- Kaszálék széthordása a földön, **kiadós eső után!!!**
+Igen, gyomos lesz a kert, de **a primer gyomok teremtik meg azon talajviszonyokat, mely önmaguk számára fenntarthatatlan**, így idővel saját magukat szorítják vissza és helyet kínálnak más, kényesebb növényeknek is:
+    - Lehetőleg térben és időben és vastagságban a területen diverzen, tehát időnként néhány folt létrehozása:
+        - **Elsődleges a nap és a szél szárító hatásának kivédése**, így érdemes elsődlegesen a kopár részeket teljesen lefedni 5-10cm vastagon, hogy még egy nagyobb eső képes legyen áthatolni rajta.
+- Ne akarj! **Nézd meg mi működik a környéken (pl: ringló) és ezket próbáld importálni a kertedbe a "kártevők" segítségével.**
+
 ## 1. A dokumentált "kert" fő jellemzői
 - Nagyjából 20 db kisebb-nagyobb átmérőjű, ~120bar nyomású stratégiai gázvezeték halad át rajta. ~4100nm-ből mindössze ~100nm nincs 
 valamelyik gázvezeték védősávjával fedve.
@@ -95,7 +105,7 @@ A következő képek egy güzüegérvárat és abból tavasszal tömegesen csír
 2025 őszén csekély mennyiségben kb 20-30cm vastag mulcs-kígyót hordtam a földem egyik felére felmagzott nyár végi út széli kaszálékból.
 Az őszi esőzésekkel tapasztaltam, hogy új füvek és gazok nőttek ott, ahol a mulcs elég vékony volt ahhoz, hogy a csírázó magok átnőjenek rajta.
 Később tudtam meg, hogy ezt úgy hívják, **seed-rich mulching**.
-4. Telek határainak körülbelüli kijelölése
+4. Telek határainak kijelölése
 5. Vadkár elleni védekezés  
    Kívül akartam tartani bizonyos kártevőket, akikkel első pillanattól kezdve meggyűlt a bajom: őzek, nyulak. 
    Később realizáltam csak, hogyan illeszkednek a rendszerbe. **Amíg a talajjavításra összpontosítasz, fölösleges a
@@ -122,7 +132,7 @@ Nem kelt ki, túl kötött talaj, nem elegendő csapadék miatt.
 8. Magok gyűjtése & vetése  
    Próbáltam teljesen véletlenszerűen, többnyire szórva, vékony mulcs alá vagy szemmel láthatóan lazább talajra vetve, mindenféle, 
    többnyire a környékből begyűjtött magot vetni.
-9. Gödrök & árok váddal mulcsolása  
+9. Gödrök & árok náddal mulcsolása  
    Mivel a földem egy mikrodomb, próbáltam körülárkolással valamelyest megakadályozni a víz lefolyását úgy, hogy az 
    árkot nád maradványokkal töltöttem fel. Ugyan így gödröket is létesítettem a rágcsálók áttelelésének segítésére, 
    mert a korábban említett güzüegérvárba tavasszal beletúrva kiváló minőségű, humuszban gazdag talajt találtam.
@@ -131,23 +141,23 @@ Nem kelt ki, túl kötött talaj, nem elegendő csapadék miatt.
 1. Ha intenzív mezőgazdasági / gyenge talajminőségű területet veszel, az elsődleges cél a talajjavítás és az ökológia helyreállítása. 
 2. Dr. Gyulai Ivánnak számos kérdésben igaza van. Azért mondta, hogy "meg kell hívni a kártevőket a kertünkbe", mert 
 miattuk működik a természetes szukcesszió. Ha valamelyik kártevőt kizárom a rendszerből, az általa hozott hasznot is elvágom.
-Mindenre szakosodott valaki, mindenkinek meg van a helye. **A bőség, a biztonság, a robosztusság a faji diverzitás mellékhatása.**
+Mindenre szakosodott valaki, mindenkinek meg van a helye. **A bőség, a biztonság, a robosztusság a faji diverzitás mellékterméke.**
 3. Lehetségesnek látszik az "édenkert" és "felelősen uralkodni a föld növényein és állatain".  
-   3.1. Figyeld meg, mihhez akar kezdeni a természet a földeden.
+   3.1. Figyeld meg, mihhez akar kezdeni a természet a földeden.  
    3.2. Vond le a következtetéseket, milyen adottságai vannak a kertednek, mi kedveli még azokat az adottságokat.  
    3.3. Ezeket próbáld meg termeszteni, amik működni és ne azt, amire vágysz.  
    3.4. Próbálj terméket készíteni abból, amit az a rendszer ad neked, amiért felelős vagy.
 
 
 ## 4. Az élet első jelei
-Számomra azért is meglepő ez a történet, mert gondoljunk csak vissza a talaj állapotával foglalkozó fejezetre. Laikusként aligha gondoltam volna, hogy ott bármi élet lakozik. Sokkal inkább egy kedvesebb pokolhoz hasonlítottam volna. Ennek ellenére egyetlen év leforgása alatt számtalan esemény bekövetkezett a természet jóvoltából, melyből mindössze néhányat tudtam megfigyelni és dokumentálni:
+A talaj állapotát bemutató fejezetben látottak alapján nem gondoltam volna, hogy ilyen rövid idő alatt ennyire sokrétű élet jelenik majd meg a földemen. Ezekből néhányat tudtam csak megfigyelni és dokumentálni:
 
 ### 4.1. Véresen komoly tücsökbunyó
-Nyár elején rendkívül sok tücsköm lett feltehetően az oda hordott elhalt biomassza végett. (Ténylegesen bunyóztak a tücskök, territoriálisak egyébként.)  
+Nyár elején rendkívül sok tücsköm lett feltehetően az oda hordott elhalt biomassza végett. (Ténylegesen bunyóztak a tücskök. Territoriálisak egyébként.)  
 ![](tucsokbunyo.png)
 
 ### 4.2. Gömbászka megy haza reggel 6 előtt az éjszakai műszakból
-A [gömbászkák](https://hu.wikipedia.org/wiki/K%C3%B6z%C3%B6ns%C3%A9ges_g%C3%B6mb%C3%A1szka) egyébként kiemelkedő szerepet vállalnak a talajjavításban. Mikor felemelsz egy követ és szétszaladnak az alatta eddig összebújó gömbászkák, az azért van, mert gömbászkaként a legnagyobb esélyed az elhalálozásra a kiszáradás. Ezért bújnak össze a kövek alatt, hogy lokálisan megemeljék a páratartalmat és így együttesen kevesebbet párologtassanak. Számomra ez a következő miatt volt megdöbbentő: Persze, egy gömbászka élete elhanyagolható egy emberélethez képest. Ugyanakkor szükségünk van például a gömbászkákra is. És valahogy nekem picit kontrasztos volt belegondolni, hogy egy regimentnyi gömbászka kihúzza egy csepp vízen mondjuk napokig, én meg napi pl: 100 liter vizet elhasználok részben angol WC-re. Hol van az a határ, amennyire még feljogosítva érezhetjük magunkat, hogy de mi jobban tudjuk, hogyan kell a vizet fölhasználni, mint a gömbászka ezért többre vagyunk jogosultak?  
+A [gömbászkák](https://hu.wikipedia.org/wiki/K%C3%B6z%C3%B6ns%C3%A9ges_g%C3%B6mb%C3%A1szka) egyébként kiemelkedő szerepet vállalnak a talajjavításban. Mikor felemelsz egy követ és szétszaladnak az alatta eddig összebújó gömbászkák, az azért van, mert gömbászkaként a legnagyobb esélyed az elhalálozásra a kiszáradás. Ezért bújnak össze a kövek alatt, hogy lokálisan megemeljék a páratartalmat és így együttesen kevesebbet párologtassanak. Számomra ez a következő miatt volt megdöbbentő: Persze, egy gömbászka élete elhanyagolható egy emberélethez képest. Ugyanakkor szükségünk van például a gömbászkákra is. És valahogy nekem picit kontrasztos volt belegondolni, hogy egy regimentnyi gömbászka kihúzza egy csepp vízen mondjuk napokig a nyári melegben, én meg napi pl: 100 liter vizet elhasználok részben angol WC-re. Hol van az a határ, amennyire még feljogosítva érezhetjük magunkat, hogy de mi jobban tudjuk, hogyan kell a vizet fölhasználni, mint a gömbászka ezért többre vagyunk jogosultak?  
 ![](gombaszka.png)
 
 ### 4.3. Not the pleasant kind of güzüegér nasi
@@ -160,15 +170,15 @@ Feltehetően güzüegerek hordásának eredményeként keletkezett, kifosztott b
 ### 4.5. Bundás bogár (épp a borsóm helyett) pásztortáska virágot ebédel
 ![](bundasbogar.png)
 
-### 4.6. Róka végrehajtó, pocok kilakoltatási helyszíne
+### 4.6. Róka végrehajtó bá, pocok kilakoltatási helyszíne
 ![](roka.png)
 
 ### 4.7. Őz agancs
-Egyik bizonyíték (a millionyi kettéharapott növényem mellett), hogy az őzek is hozzám járnak bandázni.  
+Egyik bizonyíték (a milliónyi kettéharapott növényem mellett), hogy az őzek is hozzám járnak bandázni.  
 ![](oz_1.png)
 
 ### 4.8. Amikor ráeszméltem az őzek hasznára
-Nem igazán tudom eldönteni, hogy betegre zabálták magukat az őzek és azt hányták ide vagy másképp ürítették, de több ehhez hasonló formációt is találtam a földemen. Idén próbáltam ki milyen ringló lekvárt főzni dűlő út menti fák terméséből. Főztem is 16 litert. Körülményesebb mint egy baracklekvár, de a gépiesítés hiánya miatt. Egyébként elképesztő, hogy kukacot alig találok benne, de a héját leszámítva méz édes a legtöbb és nulla törődést (inkább bolygatást) kapott. Palacsintához, tejberizshez, rizskoch-hoz, zabkásához, stb. kiváló. Még a monília és a szárazság is csak néhánnyal végzett. (Ja igen, öntözni is csak a Jóisten öntözi az elmúl 3 aszájos évben.)  
+Nem igazán tudom eldönteni, hogy betegre zabálták magukat az őzek és azt hányták ide vagy másképp ürítették, de több ehhez hasonló formációt is találtam a földemen. Idén próbáltam ki milyen ringló lekvárt főzni dűlő út menti fák terméséből. Főztem is 16 litert. Körülményesebb mint egy baracklekvár, de a gépiesítés hiánya miatt. Egyébként elképesztő, hogy kukacot alig találok benne, de a héját leszámítva méz édes a legtöbb és nulla törődést (inkább bolygatást) kapott. Palacsintához, tejberizshez, rizskoch-hoz, zabkásához, stb. kiváló. Még a monília és a szárazság is csak néhánnyal végzett. (Ja igen, öntözni is csak a Jóisten öntözi az elmúl 3 aszályos évben.)  
 ![](oz_2.png)
 
 ## Összességében
