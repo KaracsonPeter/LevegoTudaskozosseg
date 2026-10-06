@@ -13,4 +13,4 @@ https://everynoise.com/
 ([Kigyűjtöttem a listáik URL-jeit](./every_noise_spoty_urls.txt), Az oldalon vannak Spoty lejátszási listára mutató linkek is.)
 
 ---
-# [🔙 _Vissza_](../../README.md)
+# [🔙 _Vissza_](../../../README.md)

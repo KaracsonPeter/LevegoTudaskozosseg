@@ -5,7 +5,7 @@
 | Állapot    | v1.0                         |
 
 ---
-# [🔙 _Vissza_](../README.md)
+# [🔙 _Vissza_](../../../README.md)
 ---
 
 **Ha szerkesztő vagy: A dokumentált recepteket a következő szabályok szerint kell struktúrálni:**  
@@ -53,4 +53,5 @@ Néhány tipp:
 
 
 ---
-# [🔙 _Vissza_](../README.md)
+# [🔙 _Vissza_](../../../README.md)
+---

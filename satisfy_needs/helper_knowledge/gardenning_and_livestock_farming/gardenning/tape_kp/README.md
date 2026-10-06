@@ -6,7 +6,7 @@
 | Állapot    | v1.0           |
 
 ---
-# [🔙 _Vissza_](../documented_experiments.md)
+# [🔙 _Vissza_](../gardenning.md)
 ---
 
 (A dokumentum képei 1000 pixel szélesek és 750 pixel magasak. 
@@ -175,4 +175,4 @@ Nem igazán tudom eldönteni, hogy betegre zabálták magukat az őzek és azt h
 Átértékeltem a jelenlegi konyhánkat és, hogy mire kellene alapozni egy fenntartható élelmiszeripart.
 
 ---
-# [🔙 _Vissza_](../documented_experiments.md)
+# [🔙 _Vissza_](../gardenning.md)

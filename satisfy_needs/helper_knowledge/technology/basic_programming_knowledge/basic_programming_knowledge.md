@@ -4,7 +4,7 @@
 | Állapot    | v1.0           |
 
 ---
-# [🔙 _Vissza_](../README.md)
+# [🔙 _Vissza_](../../../../README.md)
 ---
 
 # Programozás alapismeretek
@@ -240,5 +240,5 @@ Vevői igények, határidő, security, budget, emberi erőforrás, számítási 
 ## 3.1. Python
 
 ---
-# [🔙 _Vissza_](../README.md)
+# [🔙 _Vissza_](../../../../README.md)
 ---

@@ -13,4 +13,4 @@ Csekély irodalmi ismereteim mentén, a számomra legkedvesebb alkotások:
 - Amennyit képes voltam megemészteni, az kedves számomra: [Hamvas Béla - Scientia sacra 1. rész](https://nemzetiegyseg.com/Tortenelmi_alkotmanyossag/Hagyatek/HB_Scientiasacra.pdf)
 
 ---
-# [🔙 _Vissza_](../../README.md)
+# [🔙 _Vissza_](../../../README.md)

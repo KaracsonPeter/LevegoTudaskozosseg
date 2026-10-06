@@ -29,13 +29,13 @@ Ez a fejezet szolgál magyarázatul azok számára, akik kíváncsiak, miért il
 # 3. Szükségletek kielégítése
 ## 3.1. Létfenntartás
 Prioritás szerinti sorrendben
-### 3.1.1. Ivóvíz, víz a háztartásban
+### 3.1.1. Ivóvíz, vízgazdálkodás a háztartásban
 [Mosás]()  
 [Tisztálkodás]()  
 [Víz tisztítása, ivóvíz]()
 
 ### 3.1.2. Táplálkozás
-[🍜 Receptek](./recipes/recipes.md)  
+[🍜 Receptek](./satisfy_needs/satisfy_base_needs/recipes/recipes.md)  
 [Sütés, főzés kellékei]()
 
 ### 3.1.3. Öltözködés
@@ -55,11 +55,14 @@ TODO
 
 
 ## 3.2. Szellemi szükségletek, Szórakozás
-[🎻 Zene](./entertainment/music/music.md)  
-[📖 Irodalom](./entertainment/literature/literature.md)
+[🎻 Zene](./satisfy_needs/entertainment/music/music.md)  
+[📖 Irodalom](./satisfy_needs/entertainment/literature/literature.md)
 
 
 ## 3.3. Szakmai segédletek
-[💻 Programozás alapismeretek](./cheat_sheets/basic_programming_knowledge.md)  
-[🌶️ Kertészkedés](./documented_experiments/documented_experiments.md)
+### 3.3.1. Technológia
+[💻 Programozás alapismeretek](./satisfy_needs/helper_knowledge/technology/basic_programming_knowledge/basic_programming_knowledge.md)
 
+### 3.3.2. Növénytermesztés, állattartás
+
+[🌶️ Ökológiai kertészkedés](./satisfy_needs/helper_knowledge/gardenning_and_livestock_farming/gardenning/gardenning.md)
