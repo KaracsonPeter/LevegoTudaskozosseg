@@ -64,5 +64,5 @@ TODO
 [💻 Programozás alapismeretek](./satisfy_needs/helper_knowledge/technology/basic_programming_knowledge/basic_programming_knowledge.md)
 
 ### 3.3.2. Növénytermesztés, állattartás
-
+Egyelőre ez a fejezet csak egy bizonyos ökológiai kertgazdálkodással foglalkozik.  
 [🌶️ Ökológiai kertészkedés](./satisfy_needs/helper_knowledge/gardenning_and_livestock_farming/gardenning/gardenning.md)
