@@ -32,7 +32,7 @@ Prioritás szerinti sorrendben
 ### 3.1.1. Ivóvíz, vízgazdálkodás a háztartásban
 [Mosás]()  
 [Tisztálkodás]()  
-[Víz tisztítása, ivóvíz]()
+[Víz tisztítása, ivóvíz](./satisfy_needs/satisfy_base_needs/water_filtration/water_filtration.md)
 
 ### 3.1.2. Táplálkozás
 [🍜 Receptek](./satisfy_needs/satisfy_base_needs/recipes/recipes.md)  
@@ -57,6 +57,7 @@ TODO
 ## 3.2. Szellemi szükségletek, Szórakozás
 [🎻 Zene](./satisfy_needs/entertainment/music/music.md)  
 [📖 Irodalom](./satisfy_needs/entertainment/literature/literature.md)
+[Történelem](./satisfy_needs/entertainment/history/history.md)
 
 
 ## 3.3. Szakmai segédletek
