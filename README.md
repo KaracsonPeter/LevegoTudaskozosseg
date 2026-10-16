@@ -56,8 +56,8 @@ TODO
 
 ## 3.2. Szellemi szükségletek, Szórakozás
 [🎻 Zene](./satisfy_needs/entertainment/music/music.md)  
-[📖 Irodalom](./satisfy_needs/entertainment/literature/literature.md)
-[Történelem](./satisfy_needs/entertainment/history/history.md)
+[:feather: Irodalom](./satisfy_needs/entertainment/literature/literature.md)  
+[:scroll: Történelem](./satisfy_needs/entertainment/history/history.md)
 
 
 ## 3.3. Szakmai segédletek
