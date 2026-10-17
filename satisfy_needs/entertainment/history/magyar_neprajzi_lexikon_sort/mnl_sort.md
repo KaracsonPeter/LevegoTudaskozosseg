@@ -8,8 +8,11 @@
 ---
 
 # Magyar Néprajzi Lexikon rendszerezése, feldolgozása
-Kíváncsi voltam az összes építészettel kapcsolatos dologra a lexikonban. Arra gondoltam, később talán jól jönne, ha legalább valamilyen fokú rendszerezettséget kapnának azon fogalmak, amelyeket érdemesnek találtam ide gyűjteni.  
-Az a gond, eléggé "korlátozott" ez a lexikon így, hogy 1970-75 között íródott. Valószínűleg közvetlen történelmi források feldolgozásával még úgy is többre megyek, hogy esetleg ennél jóval kisebb az információ sűrűsége, ugyanis laikusként is az a megérzésem, erősen részrehajló ez a lexikon. Ha másra nem, arra jó, hogy aránylag széleskörűen fogalmam legyen arról, **hogyan is nézett ki egy korábbi élettér**. Ugyanakkor PL: Herman Ottó, Móra Ferenc, Tömörkény István közvetlen történelmi forrásai sokkal hasznosabbnak bizonyultak.  
+## Olvasói beszámoló
+Kíváncsi voltam az összes építészettel kapcsolatos fogalomra a lexikonban. Arra gondoltam, később talán jól jönne, ha legalább valamilyen fokú rendszerezettséget kapnának azon fogalmak, amelyeket érdemesnek találtam ide gyűjteni.  
+Úgy érzékelem, eléggé "korlátozott" ez a lexikon így, hogy 1970-75 között íródott. Valószínűleg közvetlenül történelmi források feldolgozásával még úgy is többre megyek, hogy esetleg ennél jóval kisebb az információ sűrűsége, ugyanis laikusként is az a megérzésem, erősen részrehajló ez a lexikon. Ha másra nem, arra jó, hogy aránylag széleskörűen fogalmaim legyenek arról, **hogyan is nézett ki egy korábbi élet**. Ugyanakkor a kultúra bemutatásánál számomra egyértelműen le akarták tagadni, hogy egyáltalán lézetik a láng szó ebben a mondatban: *"A hagyomány nem arról szól, hogy őrizzük a hamut, hanem, hogy továbbvisszük a lángot."* **A kultúra formalitásainak, kizárólag üresség természetén keresztül történő bemutatásával próbáltak egy kulturálisan, kollektív nihilizmusba taszítani egy nemzetet**  
+PL: Herman Ottó, Móra Ferenc, Tömörkény István írásai számomra sokkal hasznosabbnak bizonyultak.  
+
 
 # 1. Építészet
 ## Lakhatás
