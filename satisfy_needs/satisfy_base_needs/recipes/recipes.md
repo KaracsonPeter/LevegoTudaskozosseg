@@ -51,6 +51,9 @@ Néhány tipp:
 
 # Szörpök
 
+# Egyéb
+- [Birsalmasajt](./global/birsalmasajt.md)
+
 
 ---
 # [🔙 _Vissza_](../../../README.md)
