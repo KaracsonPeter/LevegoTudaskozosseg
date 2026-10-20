@@ -15,7 +15,7 @@ Sokan összekeverjük a szükségletet a vágy alapú akarattal.
 Hajlamosak vagyunk továbbá összemosni a nélkülözés fogalmát az erőforrások megbecsüléséből származó életvitel mintázataival. 
 Fontosnak tartom ezért a szükséglet fogalom definiálását, mely az olvasók közt közös nevezőt képezhet.
 
-A Wikipédia azon része, mellyel egyetértek, ezt írja (2026.07.-ben):  
+A Wikipédia ezt írja (2026.07.-ben):  
 
 > [Szükséglet](https://hu.wikipedia.org/wiki/Sz%C3%BCks%C3%A9glet)
 > 
@@ -36,9 +36,7 @@ mely az általa ismert világban a lehető legközelebb áll elképzeléséhez.
 “Semmi sem állandó, csak a változás maga.” [Hérakleitosz] E sorsszerű csalódás kiváltásáért egy válsághelyzet lesz felelős.) 
 Az ilyen módosult tudatállapotok következtében felhasznált erőforrás nem szükséglet kielégítést szolgál, hanem pazarlásnak tekinthető.
 
-Értem, hogy “alapvető szükséglet” és “szükséglet” két külön fogalom akar lenni a Wikipédia cikk írója szerint, 
-azonban a félreértések elkerülése végett, amire ténylegesen nincs szükségünk, azt nem nevezném szükségletnek. 
-Inkább “vágyképzetnek”. 
+Elsősorban tehát a félreértések elkerülése végett, amire ténylegesen nincs szükségünk, azt nem nevezném szükségletnek. Inkább “vágyképzetnek”. 
 
 Továbbá: **Normálisnak általában azt nevezzük a mai világban, mikor egy kritikus tömeget meghaladó embercsoport azonos vágyképzetek szerint éli mindennapjait. Szélsőségesnek vagy szektának azt nevezzük, mikor ugyan ez az embercsoport nem éri el a társadalmi párbeszéd által meghatározott kritikus tömeget.** 
 Azon embercsoportok viselkedését, amelyek a vágyképzetek levetkőzéséért dolgoznak, általában N-edik ránézésre sem tudjuk értelmezni. 
@@ -50,7 +48,7 @@ Ezen állítások alátámasztására egy barátom javaslatára egy nagyon elkap
 [💸 Need satisfier escalation](./need_satisfier_escalation/need_satisfier_escalation.md)
 
 **Jelenleg számomra a fenntarthatóság a környezetünk felelős formálása, az erőforrások szükségletek és nem vágyak szerint történő felhasználása.** 
-Ezen életben próbál segítséget nyújtani a tudásbázis az érdeklődők számára.
+Ezen életmód kialakításában próbál segítséget nyújtani a tudásbázis az érdeklődők számára.
 
 Mellesleg úgy látom, hogy ezen alapvető tudást összegző információhalmaz létrehozása és fenntartása az állam érdeke lenne.
 Ez iránymutatást adhatna a polgárok számára és az esetlegesen a nemzetbiztonságot veszélyeztető időkben "light-weight" 
