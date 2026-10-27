@@ -4,6 +4,10 @@
 © 2026 by [Peter Zsolt Karácson](https://github.com/KaracsonPeter) is licensed under 
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
+---
+# [:page_facing_up: Közreműködök](./contribution_form.md)
+---
+
 A Levegő Tudásközösség egy ismerethalmaz és dokumentáció, mely a fenntartható fejlődés ideája köré épülő általános 
 gyakorlat-orientált tudást, folyamatos bővítéssel összegzi. Jelen álláspontja, hogy létezik olyan tudás, amelyet oktatási rendszerünk nem ismertet, ugyanakkor minden ember számára alanyi jogon hozzáférhető kéne, hogy legyen, esélyt biztosítva ezzel egy kiegyensúlyozott élet kialakításához.  
 Másodlagos célja egy olyan közösség szervezése, melynek tagjai ajándékozással segítik egymást az elsajátított tudás által kialakított rendszerük segítségével megtermelt erőforrásokkal.  
