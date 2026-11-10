@@ -20,6 +20,7 @@ Példaként bármely más eddig dokumentált recept megtekinthető.
 | [Borsós fetás pástétom](./global/borsos_fetas_pastetom.md)                 | Laktovegán               | 0.5                   | Igen                  |
 | [Humusz](./global/humusz.md)                                               | Glutánmentes, Vegán      | 0.5                   | Igen                  |
 | [Kiadós teasütemény](./global/kiados_teasutemeny.md)                       | -                        | 3                     | Igen                  |
+| [Krumplis pogácsa](./global/krumplis_pogacsa.md)                           | -                        | 3                     | Igen                  |
 | [Laktovegán Városi Rögtönzés](./global/laktovegan_varosi_rogtonzes.md)     | Glutánmentes, Laktovegán | 1                     | Igen                  |
 | [Lángos](./global/langos.md)                                               | Laktovegán               | 2.5                   | Igen                  |
 | [Mézes fokhagymás tofu](./global/mezes_fokhagymas_tofu.md)                 | Glutánmentes, Vegán      | 1.5                   | Igen                  |
