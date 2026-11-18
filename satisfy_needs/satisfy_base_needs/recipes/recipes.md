@@ -14,10 +14,11 @@ Minden recept 4 szekciót tartalmazzon a későbbi parse-olhatóság érdekében
 Példaként bármely más eddig dokumentált recept megtekinthető.
 
 | Recept                                                                     | Diéta                    | Elkészítési idő [óra] | Lokálisan termelhető? |
-| -------------------------------------------------------------------------- | ------------------------ | --------------------- | --------------------- |
+|----------------------------------------------------------------------------|--------------------------|-----------------------|-----------------------|
 | [Anya gluténmentes túrógombóca](./global/anya_glutenmentes_turogomboca.md) | Glutánmentes, Laktovegán | ?                     | Igen                  |
 | [Amerikai (vastag, lágy) palacsinta tészta](./global/usa_cake.md)          | -                        | 1                     | Igen                  |
 | [Borsós fetás pástétom](./global/borsos_fetas_pastetom.md)                 | Laktovegán               | 0.5                   | Igen                  |
+| [Gluténmentes palacsinta](./global/glutenfree_pancake.md)                  | Glutánmentes             | 1.5                   | Más liszttel          |
 | [Humusz](./global/humusz.md)                                               | Glutánmentes, Vegán      | 0.5                   | Igen                  |
 | [Kiadós teasütemény](./global/kiados_teasutemeny.md)                       | -                        | 3                     | Igen                  |
 | [Krumplis pogácsa](./global/krumplis_pogacsa.md)                           | -                        | 3                     | Igen                  |
