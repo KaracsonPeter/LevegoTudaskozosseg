@@ -29,6 +29,9 @@ Ami ebben megakadályoz pillanatnyilag: Értsd meg. Láss rá.
 Egy felesleges kitérő megelőzése:  
 [🍯 Önellátás](./core_principle/health_and_ecology/self_sufficiency.md)  
 
+Talán segítség:  
+[Tényszerű napló](./core_principle/health_and_ecology/dairy.md)  
+
 ## 🍓 [2.2. Az alapvető szükségletekről általában](./core_principle/needs.md)
 Ez a fejezet szolgál magyarázatul azok számára, akik kíváncsiak, miért ilyen struktúrát kapott a tudásbázis.
 
@@ -38,7 +41,7 @@ Prioritás szerinti sorrendben
 ### 3.1.1. Ivóvíz, vízgazdálkodás a háztartásban
 [Mosás]()  
 [Tisztálkodás]()  
-[Víz tisztítása, ivóvíz](./satisfy_needs/satisfy_base_needs/water_filtration/water_filtration.md)
+[Víz tisztítása, ivóvíz](./satisfy_needs/satisfy_base_needs/water_filtration/water_filtration.md)  
 
 ### 3.1.2. Táplálkozás
 [🍜 Receptek](./satisfy_needs/satisfy_base_needs/recipes/recipes.md)  
